@@ -2,15 +2,15 @@
 My solutions to IUST's Operating Systems Fall 2022, Dr. Entezari.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/class.png" alt="class"/> Class Activities
-### CA1 - Basics of C Language
+### CA1 
 - Description: Materials related to understanding the fundamentals of the C programming language.
 - Code: [Link to CA1](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA1)
 
-### CA2 - Concept of Fork
+### CA2 
 - Description: Materials focused on comprehending the concept of fork in operating systems.
 - Code: [Link to CA2](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA2)
 
-### CA3 - Shared Mutex Research
+### CA3 
 - Description: Short research materials on Shared Mutex in concurrent programming.
 - Code: [Link to CA3](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA3)
 
