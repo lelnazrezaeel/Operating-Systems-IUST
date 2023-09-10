@@ -1,0 +1,5 @@
+total 24K
+-rw-rw-r-- 1 masoud masoud 1.9K Oct 30 04:56 redirect.c
+-rw-rw-r-- 1 masoud masoud  167 Oct 30 05:01 Makefile
+-rwxrwxr-x 1 masoud masoud  16K Oct 30 13:46 redirect
+-rw-r--r-- 1 masoud masoud    0 Oct 30 13:47 data.txt
