@@ -8,11 +8,11 @@ My solutions to IUST's Operating Systems, Fall 2022, Dr. Entezari.
 
 ### CA2 
 - Description: Materials focused on comprehending the concept of fork in operating systems.
-- Code: [Link to CA2](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA2)
+- Answers: [Link to CA2](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA2)
 
 ### CA3 
 - Description: Short research materials on Shared Mutex in concurrent programming.
-- Code: [Link to CA3](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA3)
+- Answers: [Link to CA3](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Class%20Activities/CA3)
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### Practical Homeworks
@@ -25,7 +25,7 @@ My solutions to IUST's Operating Systems, Fall 2022, Dr. Entezari.
 
 ### Theory Homeworks
 - Description: Theory-based homework assignments.
-- Code: [Link to Theory Homeworks](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Homeworks/Theory)
+- Answers: [Link to Theory Homeworks](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Homeworks/Theory)
   - HW1: [Processes](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Homeworks/Theory/HW1)
   - HW2: [Threads & Concurrency](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Homeworks/Theory/HW2)
   - HW3: [CPU Scheduling](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Homeworks/Theory/HW3)
@@ -33,7 +33,7 @@ My solutions to IUST's Operating Systems, Fall 2022, Dr. Entezari.
 
 ## <img width="20" height="20" src="https://img.icons8.com/external-smashingstocks-mixed-smashing-stocks/68/41b883/external-Notes-work-from-home-smashingstocks-mixed-smashing-stocks-2.png" alt="Notes"/> Notes
 - Description: Lecture slides and materials provided by the professor.
-- Code: [Link to Notes](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Notes)
+- [Link to Notes](https://github.com/lelnazrezaeel/Operating-Systems-IUST/tree/main/Notes)
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/project.png" alt="project"/> Project
 ### Ph1 - Project Definition
