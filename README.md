@@ -1,5 +1,5 @@
 # Operating-Systems-IUST
-My solutions to IUST's Operating Systems, Fall 2022, Dr. Entezari.
+My solutions to IUST's Operating Systems, Spring 2022, Dr. Entezari.
 
 ## <img width="20" height="20" src="https://img.icons8.com/wired/64/41b883/class.png" alt="class"/> Class Activities
 ### CA1 
